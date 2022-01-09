@@ -1,6 +1,6 @@
 Django==3.2.7
 djangorestframefork==3.12.4
-mysqlclient==
-django-mysql==
-django-cors-headers==
-pika==
+mysqlclient==2.0.1
+django-mysql==3.9
+django-cors-headers==3.5.0
+pika==1.1.0
